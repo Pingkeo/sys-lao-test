@@ -1,0 +1,6 @@
+quiz_web_app/
+├── app.py                 # ໄຟລ໌ຫຼັກສຳລັບ Web App
+├── quiz_core.py           # ໂມດູນເຊື່ອມຕໍ່ Google Sheet ແລະ ຟັງຊັນຕ່າງໆ (ຄືເກົ່າ)
+├── credentials.json       # ຟາຍ Service Account ຂອງ Google
+├── style.css              # ໄຟລ໌ CSS ສຳລັບຕົກແຕ່ງເພີ່ມເຕີມ
+└── requirements.txt       # ລາຍຊື່ library ທີ່ຕ້ອງການ
